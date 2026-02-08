@@ -86,9 +86,16 @@ http://localhost:8080
 
 Postman Demonstration
 All API functionality was tested using Postman.
+<img width="940" height="568" alt="CREATE EBOOK" src="https://github.com/user-attachments/assets/a69d95a6-9c4f-401c-b977-69b31e5574bd" />
+<img width="939" height="643" alt="UPDATE PUT" src="https://github.com/user-attachments/assets/4faf69de-66ea-4c59-b38d-0c026eb8ac41" />
+<img width="946" height="594" alt="GET BY ID" src="https://github.com/user-attachments/assets/6f8247e0-2e56-443b-9da6-bc507cd8c705" />
+<img width="930" height="603" alt="GET ALL BOOKS" src="https://github.com/user-attachments/assets/b1873427-4e13-4287-be99-2117f1aff8f4" />
+<img width="928" height="578" alt="DELETE BOOK" src="https://github.com/user-attachments/assets/b26704c1-12d8-4f0b-9604-9c4af3d46a9c" />
+<img width="941" height="537" alt="CREATE PRINTED" src="https://github.com/user-attachments/assets/5eee41e0-9994-4528-a8b1-6c87a4cb153e" />
 
 Reflection
 
 During this project, I improved my understanding of: Layered backend architecture, JDBC and transaction management, OOP principles in real-world applications, REST API design and error handling, Debugging database and SQL-related issues
 
-This project demonstrates how clean architecture and proper separation of concerns improve maintainability and scalability of backend systems.
+This project demonstrat
+es how clean architecture and proper separation of concerns improve maintainability and scalability of backend systems.
